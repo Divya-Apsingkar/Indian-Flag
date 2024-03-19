@@ -1,0 +1,32 @@
+.flag{
+    position: relative;
+    top: 30px;
+    left: 550px;
+}
+
+.color{
+    height: 80px;
+    width: 400px;
+}
+.orange{
+    height: 150px;
+    width: 500px;
+    background-color: orange;
+}
+.white{
+    height: 150px;
+    width: 500px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+}
+.green{
+    height: 150px;
+    width: 500px;
+    background-color: green;
+}
+.stick{
+    height: 250px;
+    width: 10px;
+    background-color: brown;
+}
